@@ -24,3 +24,4 @@ This is a listing of free, open source, and public domain diy audio projects. Th
 
 ## Power supplies
 - [Open Source LM3886 PSU](https://www.diyaudio.com/community/threads/an-open-source-layout-for-lm3886.321922/page-4#post-5426691) – `Free/no license`. Companion power supply for Open Source LM3886. [Gerbers, Schematic](https://www.diyaudio.com/community/threads/an-open-source-layout-for-lm3886.321922/page-4#post-5426691).
+- Chipamp.com LM3886 PSU – `Public Domain`. Power supply originally for sale on chipamp.com but now in the public domain for use. [Schematic](power-supplies/chipampcom/chipamp-psu-schematic.png), [Gerbers](power-supplies/chipampcom/chipamp-psu-gerbers.zip). 
